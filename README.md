@@ -29,6 +29,12 @@ I'm always up for a challenge, and I love diving deep into new technologies, whe
   
 ---
 
+## 🏆 Badges
+
+[![An image of @sriharshitha37's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sriharshitha37)](https://holopin.io/@sriharshitha37)
+
+---
+
 ## 📫 How to Reach Me:
 - **Email**: [sriharshitha.b06@gmail.com](mailto:sriharshitha.b06@gmail.com)
 - **LinkedIn**: [Sri Harshitha](https://www.linkedin.com/in/sri-harshitha-b-8a1a8830a)
@@ -43,5 +49,6 @@ I'm always up for a challenge, and I love diving deep into new technologies, whe
 ---
 
 Feel free to explore my repositories and connect with me for collaboration, open-source contributions, or exciting projects! Let's create something amazing together! 💻✨
+
 
 
