@@ -30,17 +30,17 @@ I build production-style backend systems and AI-driven applications, and analyze
 ### 💻 Featured Projects — Software Engineering
 
 **[BackendLedger — Bank-Grade Transaction System](https://bank-transaction-system-ctgt.onrender.com)**
-`Node.js` `Express` `MongoDB` `JWT` · [Live Demo](#)
+`Node.js` `Express` `MongoDB` `JWT` · [Live Demo](https://bank-transaction-system-ctgt.onrender.com)
 
 A ledger-based transaction backend simulating professional banking systems. Implements double-entry-style debit/credit records with an immutable audit trail, dynamic balance calculation from ledger aggregation (not stored balances), and idempotency keys to prevent duplicate transactions a critical requirement in financial systems. Includes JWT auth, bcrypt password hashing, and email notifications via Nodemailer.
 
 **[LendAI — AI Loan Processing Platform](https://lendwise-ai.vercel.app/)**
-`Python` `FastAPI` `LLMs` `REST APIs` · [Live Demo](#)
+`Python` `FastAPI` `LLMs` `REST APIs` · [Live Demo](https://lendwise-ai.vercel.app/)
 
 Multi-agent AI platform automating loan onboarding, eligibility assessment, document verification, and conversational support. Built secure document pipelines extracting and validating data from Aadhaar/PAN, with REST APIs connecting AI agents to backend financial workflows end-to-end.
 
 **[Stock Price Alert Microservice](https://stock-alert-service.onrender.com/ui)**
-`Python` `FastAPI` `SQLite` `yfinance` · [Live Demo](#)
+`Python` `FastAPI` `SQLite` `yfinance` · [Live Demo](https://stock-alert-service.onrender.com/ui)
 
 FastAPI microservice monitoring live stock prices with configurable threshold-based alerts. Computes 14-day RSI server-side to flag overbought/oversold conditions. RESTful design with SQLite persistence and interactive Swagger docs.
 
@@ -49,12 +49,12 @@ FastAPI microservice monitoring live stock prices with configurable threshold-ba
 ### 📊 Featured Projects — Data Analytics
 
 **[Customer Funnel & Revenue Analytics](https://github.com/sriharshitha37/Funnel_Analysis)**
-`Python` `SQL` `Pandas` `Power BI` `Excel` . [Github](#)
+`Python` `SQL` `Pandas` `Power BI` `Excel` . [Github](https://github.com/sriharshitha37/Funnel_Analysis)
 
 Analyzed 20,000+ customer sessions across a 4-stage conversion funnel, identifying a **59.62% checkout abandonment rate** driving the largest revenue leakage. Processed $1.17M+ in transaction data and built an interactive Power BI dashboard tracking 7+ KPIs (revenue, conversion rate, channel, device, region, category). Recommended checkout optimizations and targeted campaigns projected to recover 10%+ lost conversions per cycle.
 
 **[Customer Shopping Behavior Analysis](https://github.com/sriharshitha37/Customer_Shopping_Behavior)**
-`Python` `Pandas` `PostgreSQL` `Power BI`   .[Github](#)
+`Python` `Pandas` `PostgreSQL` `Power BI`   .[Github](https://github.com/sriharshitha37/Customer_Shopping_Behavior)
 
 Analyzed retail customer data to uncover drivers of repeat purchases, including discounts, seasonality, and shipping type. Cleaned and engineered features (age groups, purchase frequency conversion) in Pandas, then loaded data into PostgreSQL via SQLAlchemy for analysis using subqueries and window functions segmenting customers into New, Returning, and Loyal tiers and ranking top-selling products per category. Built an interactive Power BI dashboard with slicers for subscription status, gender, and category, surfacing KPIs like average spend and review ratings across demographics.
 
