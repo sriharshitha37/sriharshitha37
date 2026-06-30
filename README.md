@@ -7,7 +7,7 @@ I build production-style backend systems and AI-driven applications, and analyze
 
 <p align="center">
 <a href="https://linkedin.com/in/sriharshithab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:boddusriharshitha37@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -29,17 +29,17 @@ I build production-style backend systems and AI-driven applications, and analyze
 
 ### 💻 Featured Projects — Software Engineering
 
-**[LendAI — AI Loan Processing Platform](https://github.com/sriharshithab37/lendAI)**
-`Python` `FastAPI` `LLMs` `REST APIs` · [Live Demo](#)
-
-Multi-agent AI platform automating loan onboarding, eligibility assessment, document verification, and conversational support. Built secure document pipelines extracting and validating data from Aadhaar/PAN, with REST APIs connecting AI agents to backend financial workflows end-to-end.
-
-**[BackendLedger — Bank-Grade Transaction System](https://github.com/sriharshithab37/Bank_Transaction_System)**
+**[BackendLedger — Bank-Grade Transaction System](https://bank-transaction-system-ctgt.onrender.com)**
 `Node.js` `Express` `MongoDB` `JWT` · [Live Demo](#)
 
 A ledger-based transaction backend simulating professional banking systems. Implements double-entry-style debit/credit records with an immutable audit trail, dynamic balance calculation from ledger aggregation (not stored balances), and idempotency keys to prevent duplicate transactions a critical requirement in financial systems. Includes JWT auth, bcrypt password hashing, and email notifications via Nodemailer.
 
-**[Stock Price Alert Microservice](https://github.com/sriharshithab37/Stock_Alert_Service)**
+**[LendAI — AI Loan Processing Platform](https://lendwise-ai.vercel.app/)**
+`Python` `FastAPI` `LLMs` `REST APIs` · [Live Demo](#)
+
+Multi-agent AI platform automating loan onboarding, eligibility assessment, document verification, and conversational support. Built secure document pipelines extracting and validating data from Aadhaar/PAN, with REST APIs connecting AI agents to backend financial workflows end-to-end.
+
+**[Stock Price Alert Microservice](https://stock-alert-service.onrender.com/ui)**
 `Python` `FastAPI` `SQLite` `yfinance` · [Live Demo](#)
 
 FastAPI microservice monitoring live stock prices with configurable threshold-based alerts. Computes 14-day RSI server-side to flag overbought/oversold conditions. RESTful design with SQLite persistence and interactive Swagger docs.
@@ -48,23 +48,15 @@ FastAPI microservice monitoring live stock prices with configurable threshold-ba
 
 ### 📊 Featured Projects — Data Analytics
 
-**[Customer Funnel & Revenue Analytics](https://github.com/sriharshithab37/Funnel_Analysis)**
-`Python` `SQL` `Pandas` `Power BI` `Excel`
+**[Customer Funnel & Revenue Analytics](https://github.com/sriharshitha37/Funnel_Analysis)**
+`Python` `SQL` `Pandas` `Power BI` `Excel` . [Github](#)
 
 Analyzed 20,000+ customer sessions across a 4-stage conversion funnel, identifying a **59.62% checkout abandonment rate** driving the largest revenue leakage. Processed $1.17M+ in transaction data and built an interactive Power BI dashboard tracking 7+ KPIs (revenue, conversion rate, channel, device, region, category). Recommended checkout optimizations and targeted campaigns projected to recover 10%+ lost conversions per cycle.
 
-**[Customer Shopping Behavior Analysis](https://github.com/sriharshithab37/Customer_Shopping_Behavior)**
-`Python` `Pandas` `PostgreSQL` `Power BI`
+**[Customer Shopping Behavior Analysis](https://github.com/sriharshitha37/Customer_Shopping_Behavior)**
+`Python` `Pandas` `PostgreSQL` `Power BI`   .[Github](#)
 
 Analyzed retail customer data to uncover drivers of repeat purchases, including discounts, seasonality, and shipping type. Cleaned and engineered features (age groups, purchase frequency conversion) in Pandas, then loaded data into PostgreSQL via SQLAlchemy for analysis using subqueries and window functions segmenting customers into New, Returning, and Loyal tiers and ranking top-selling products per category. Built an interactive Power BI dashboard with slicers for subscription status, gender, and category, surfacing KPIs like average spend and review ratings across demographics.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=sriharshithab37&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-</p>
 
 ---
 
